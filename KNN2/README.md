@@ -11,7 +11,7 @@ Có nhiều cách để tính khoảng cách giữa các điểm.
 
 # 3. Hiển thị kết quả lên website
 
-<img width="1024" alt="kn2" src="https://github.com/Huy48/tuan3_hocmayvaungdung/issues/1#issuecomment-2402448750">
+<img width="1024" alt="kn2" src="https://github.com/user-attachments/assets/138c97ba-2bb3-4e19-8d32-c3ebf0ee0f66">
 
 # 4. So sánh 2 thuật toán 
   
