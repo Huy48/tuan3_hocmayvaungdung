@@ -1,2 +1,2 @@
-# tuan3_hocmayvaungdung
-hoc may va ung dung lab3
+# Tuần 3 học máy và ứng dụng
+
